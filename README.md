@@ -90,7 +90,7 @@ python [EXP_PATH] --ckpt_path [CKPT_PATH] -e -b 8 --gpus 8
 
 # Model Zoo
 The pretrained models can be found via the following links:
-* [BaiduYun](https://pan.baidu.com/s/1dYYYV2_WdnMyS-gXtZt6Yw?pwd=CBEV)
+* [Baidu Cloud](https://pan.baidu.com/s/1dYYYV2_WdnMyS-gXtZt6Yw?pwd=CBEV)
 * [Google Drive](https://drive.google.com/drive/folders/1Pnem72i983qNqf5hptwx5cKBZqK-QSOW?usp=sharing)
 
 # Acknowledgment
