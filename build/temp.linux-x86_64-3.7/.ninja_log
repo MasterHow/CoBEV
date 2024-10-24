@@ -1,0 +1,3 @@
+# ninja log v5
+2	555	1681886251658367622	/workspace/mnt/storage/pangchengshan/fs/gitlab/BEVHeight/build/temp.linux-x86_64-3.7/ops/voxel_pooling/src/voxel_pooling_forward_cuda.o	735031e0d3e32ce3
+2	18312	1681886269410238044	/workspace/mnt/storage/pangchengshan/fs/gitlab/BEVHeight/build/temp.linux-x86_64-3.7/ops/voxel_pooling/src/voxel_pooling_forward.o	aa68ee19db906cab
