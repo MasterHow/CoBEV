@@ -49,7 +49,7 @@ Our goal is to enhance the perception range of intelligent vehicles and improve 
 
 # Memo
 
-- [√] Release the pretrained models
+- [x] Release the pretrained models
 
 <br>
 
